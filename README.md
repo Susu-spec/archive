@@ -13,6 +13,9 @@ But not all of these services involve the web as we know it. Many are non-web se
 
 Welcome to the Non-Web services article repository. 
 
+## Published article
+[Non-Web Services: Outside the Web](https://medium.com/@suleimansuwaibat/non-web-services-outside-the-web-a4835495ccb2)
+
 ## Key Folders
 
 "articles/ "
