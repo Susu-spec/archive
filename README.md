@@ -1,6 +1,6 @@
 # Archive
 
-This repository contains content and resources related to Non-Web Services Architecture.
+This repository contains content and resources related to the article - `Non-Web Services: Outside the Web`.
 
 ## Summary
 
@@ -18,23 +18,23 @@ Welcome to the Non-Web services article repository.
 
 ## Key Folders
 
-"articles/ "
+- `articles/` - 
 This folder contains the main article written in markdown format.
 
-"research/"
+`research/` - 
 A collection of supporting links and resources for deeper exploration.
 
 
 ## How to Use
 
-Check out the article.md file within the articles/ folder.
+Check out the article.md file within the `articles/` folder.
 
 ## Contributing
 
 To contribute:
 - Fork the repository.
-- Create a branch (feat/my-new-feature).
-- Commit your changes (git commit -am 'feat: add new feature').
-- Push to the branch (git push origin feat/my-new-feature).
+- Create a branch (`feat/my-new-feature`).
+- Commit your changes (`git commit -am 'feat: add new feature'`).
+- Push to the branch (`git push origin feat/my-new-feature`).
 - Submit a pull request.
 
