@@ -27,7 +27,7 @@ A collection of supporting links and resources for deeper exploration.
 
 ## How to Use
 
-Check out the article.md file within the `articles/` folder.
+Check out the `article.md` file within the `articles/` folder.
 
 ## Contributing
 
