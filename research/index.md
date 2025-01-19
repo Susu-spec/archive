@@ -7,3 +7,7 @@
         - Relevance: This text provided an in-depth coverage into networking concepts, foundatinal principles, advanced subjects on the matter. This is the backbone of the article.
     - 3 [Network Layer Protocols](https://www.geeksforgeeks.org/network-layer-protocols/)
         - Relevance: This article highlighted several network layer protocols.
+    - 4 [Image of Internet Protocol Stack](https://www.geeksforgeeks.org/network-layer-protocols/)
+        - The first image in this article denotes the structural layers of internet protocols.
+    - 5 [Image of comparison between Peer-to-Peer and Client-Server Architecture](https://www.networkstraining.com/peer-to-peer-vs-client-server-network/)
+        - The first image in this article shows the differences between both architectural paradigms.
