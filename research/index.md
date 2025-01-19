@@ -1,36 +1,8 @@
 # Research
-<!-- 
-template: {
-    link: [link text](URL)
-    purpose: 'link purpose'
-}
--->
 
-- Resources (array)
-    - 1
-        - Link: [The Disadvantages of Building a Non-Web-Based Application](https://smallbusiness.chron.com/disadvantages-building-nonwebbased-application-40347.html)
+### Sources consulted
+    - 1 [The Disadvantages of Building a Non-Web-Based Application](https://smallbusiness.chron.com/disadvantages-building-nonwebbased-application-40347.html)
         - Relevance: This article (independent research) introduced me to the concept
-    - 2
-        - Link: 
-        - Relevance:
-    - 3
-        - Link: 
-        - Relevance:
-    - 4
-        - Link: 
-        - Relevance:
-    - 5
-        - Link: 
-        - Relevance:
-    - 6
-        - Link: 
-        - Relevance:
-    - 7
-        - Link: 
-        - Relevance:
-    - 8
-        - Link: 
-        - Relevance:
-    - 9
-        - Link: 
-        - Relevance:
+    - 2 [Computer Networking: A Top Down Approach](https://dl.acm.org/doi/book/10.5555/1593414) || [The Free Course](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+        - Relevance: Everything I needed was in this book
+    
